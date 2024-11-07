@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "82801990949",
+    "firebase_url": "https://qlks-593a5-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "qlks-593a5",
+    "storage_bucket": "qlks-593a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82801990949:android:660906b2031a65da4b8ecc",
+        "android_client_info": {
+          "package_name": "com.example.qlks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82801990949-bnagrdl0r7gm60kejagq186lnplnskpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCATNr0hjbKYBs-wtjs6pAgCkgButWfRIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82801990949-bnagrdl0r7gm60kejagq186lnplnskpm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
